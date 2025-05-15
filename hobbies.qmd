@@ -1,0 +1,32 @@
+---
+title: "Hobbies"
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+---
+
+::: {.callout-tip}
+_I’m passionate about singing and audio recording, and I love sharing my musical journey!_
+:::
+
+# Singing Sessions
+
+I love to sing! I often record myself in OBS with Spotify playing in the background. 
+
+# Musical Tastes
+
+My favourite music genres are:
+
+- **Musicals**
+- **EDM**
+- **Vocaloid**
+
+And my ultimate favourite artist is…
+
+![](images/alanwalker.jpg){fig-alt="Alan Walker album cover" width="40%" class="project-image"}
+<
+

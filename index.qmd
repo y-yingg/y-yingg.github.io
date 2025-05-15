@@ -1,11 +1,23 @@
 ---
-title: "temp_website"
+title: "HELLO YES YOU HI"
+format:
+  html:
+    theme: 
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
 ---
 
-This is a Quarto website.
+## Hi, I’m Cheng Yin, nice to meet you!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here’s a video to motivate you if you are not feeling good:
 
-```{r}
-1 + 1
-```
+::: {.video-container}
+<iframe src="https://www.youtube.com/embed/rZLVIVByZn8"
+        title="Citizen Soldier motivational video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+:::

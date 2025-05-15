@@ -1,0 +1,9 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+### I used genAI to suggest css I can use and help me fix any errors!
+
+![](images/ai1.png)
+![](images/ai2.png)

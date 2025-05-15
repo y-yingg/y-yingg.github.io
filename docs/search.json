@@ -2,8 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "HELLO YES YOU HI",
+    "section": "",
+    "text": "Here’s a video to motivate you if you are not feeling good:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FYP Project.html",
+    "href": "FYP Project.html",
+    "title": "Patient in Distress Alert System (PDAS)",
+    "section": "",
+    "text": "Tip\n\n\n\nWhat you’ll find on this page:\nAn overview of our AI-powered patient-monitoring platform, team credits, and supervision.\n\n\n\nProject Overview\nThe Patient in Distress Alert System (PDAS), built in collaboration with DataStax, addresses critical gaps in patient monitoring:\n\n\n\nFig. 1. Live PDAS dashboard: gesture, speech & inactivity detectors in action.\n\n\n\nHelp Gestures\nDetects three distinct “help” gestures via on-device AI.\nMultilingual Speech Recognition\nRecognises “HELP!” in English, Mandarin (救命!), and Malay (Tolong!).\nInactivity Detection\nFlags patients who remain static beyond safe thresholds.\n\n\n💡 This AI model runs entirely within the app, ensuring fast, private detection.\n\n\n\nKey Features\n\nUser Management\n\nRole-based logins for caregivers, patients, and admins.\n\nPatient-Caregiver Matching\n\nIntelligent pairing to streamline assignments.\n\nAlert Management\n\nReal-time alert capture and push notifications.\n\n\nOur goal is high accuracy in detecting patient needs, so caregivers can respond faster and more confidently.\n\n\nTeam & Supervision\n\n\n\nTeam Members\n\nTang Cheng Yin\n\nLucas Tan Lok Yue\n\nGigi Wong Qi Hui\n\n\n\n\n\nSupervisor\nMr Ho Chee Wai\nSenior Lecturer, School of Information Systems\nSingapore Institute of Technology"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used genAI to suggest css I can use and help me fix any errors!"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Tip\n\n\n\nI’m passionate about singing and audio recording, and I love sharing my musical journey!\n\n\n\nSinging Sessions\nI love to sing! I often record myself in OBS with Spotify playing in the background.\n\n\nMusical Tastes\nMy favourite music genres are:\n\nMusicals\nEDM\nVocaloid\n\nAnd my ultimate favourite artist is…\n::: figure align=“center”  &lt; :::"
+  },
+  {
+    "objectID": "index.html#hi-i-am-cheng-yin-nice-to-meet-you",
+    "href": "index.html#hi-i-am-cheng-yin-nice-to-meet-you",
     "title": "temp_website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Here is a video to motivate you &lt;insert video https://www.youtube.com/watch?v=rZLVIVByZn8&ab_channel=CitizenSoldier&gt;"
+  },
+  {
+    "objectID": "index.html#hi-im-cheng-yinnice-to-meet-you",
+    "href": "index.html#hi-im-cheng-yinnice-to-meet-you",
+    "title": "HELLO YES YOU HI",
+    "section": "",
+    "text": "Here’s a video to motivate you if you are not feeling good:"
+  },
+  {
+    "objectID": "index.html#hi-im-cheng-yin-nice-to-meet-you",
+    "href": "index.html#hi-im-cheng-yin-nice-to-meet-you",
+    "title": "HELLO YES YOU HI",
+    "section": "",
+    "text": "Here’s a video to motivate you if you are not feeling good:"
   }
 ]

@@ -3,12 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "All About Cheng Yin"
+  favicon: images/favicon.png
   navbar:
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: FYP Project.qmd
+        text: FYP Project
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: Reflection.qmd
+        text: Reflections
 
 format:
   html:
@@ -17,6 +24,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

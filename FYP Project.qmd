@@ -1,0 +1,64 @@
+---
+title: "Patient in Distress Alert System (PDAS)"
+format:
+  html:
+    theme: 
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+---
+
+::: {.callout-tip}
+**What you’ll find on this page:**  
+An overview of our AI-powered patient-monitoring platform, team credits, and supervision.
+:::
+
+# Project Overview
+
+The **Patient in Distress Alert System (PDAS)**, built in collaboration with **DataStax**, addresses critical gaps in patient monitoring:
+
+::: {.figure align="center"}
+![](images/PDAS.png){fig-alt="Screenshot of PDAS UI" width="70%" class="project-image"}
+<figcaption>**Fig. 1.** Live PDAS dashboard: gesture, speech & inactivity detectors in action.</figcaption>
+:::
+
+- **Help Gestures**  
+  Detects three distinct “help” gestures via on-device AI.
+- **Multilingual Speech Recognition**  
+  Recognises “HELP!” in English, Mandarin (救命!), and Malay (Tolong!).
+- **Inactivity Detection**  
+  Flags patients who remain static beyond safe thresholds.
+
+<aside>
+💡 _This AI model runs entirely within the app, ensuring fast, private detection._
+</aside>
+
+# Key Features
+
+1. **User Management**  
+   - Role-based logins for caregivers, patients, and admins.
+2. **Patient-Caregiver Matching**  
+   - Intelligent pairing to streamline assignments.
+3. **Alert Management**  
+   - Real-time alert capture and push notifications.
+
+Our goal is high accuracy in detecting patient needs, so caregivers can respond faster and more confidently.
+
+# Team & Supervision
+
+::: columns
+::: column
+### Team Members
+- Tang Cheng Yin  
+- Lucas Tan Lok Yue  
+- Gigi Wong Qi Hui  
+:::
+::: column
+### Supervisor
+**Mr Ho Chee Wai**  
+Senior Lecturer, School of Information Systems  
+Singapore Institute of Technology  
+:::
+:::
+

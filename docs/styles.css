@@ -1,1 +1,70 @@
-/* css styles */
+/* Base typography */
+body {
+  font-family: "Lato", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  background: #fdfdfd;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #2c3e50;
+}
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.25rem; }
+
+/* Callouts & Asides */
+.callout-tip {
+  border-left: 4px solid #17a2b8;
+  background: #e9f7fa;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 0.25rem;
+}
+aside {
+  display: block;
+  border-left: 3px solid #f0ad4e;
+  background: #fff8e1;
+  padding: 0.75em 1em;
+  margin: 1em 0;
+  border-radius: 0.25rem;
+}
+
+/* Columns (using Quarto’s built-in grid) */
+.columns {
+  margin: 2em 0;
+}
+.column {
+  padding: 0 1rem;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0.75em 0 1.5em 1.25em;
+}
+
+/* Table of Contents */
+#toc {
+  max-width: 16rem;
+  font-size: 0.9rem;
+  background: #f7f7f7;
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .columns { display: block; }
+  .column { margin-bottom: 1.5rem; }
+}
+
+.project-image {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin: 1.5rem 0;
+  display: block;
+}
